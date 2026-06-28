@@ -53,7 +53,7 @@ AI-powered predictive maintenance system for industrial machinery.
 * Java
 * C#
 * SQL
-* Php
+* PHP
 
 **Yapay Zeka ve Veri Bilimi | AI & Data Science**
 
@@ -88,6 +88,13 @@ AI-powered predictive maintenance system for industrial machinery.
 - 🧠 Artificial Intelligence & Machine Learning – Data Analysis School 2025-2026
 - 🛡️ Defense Industry 402 – Presidency of Defence Industries (Grade: AA)
 - 🤖 AI Applications in Data Science and Engineering – Lucerne University of Applied Sciences and Arts (EIT Deep Tech Talent Initiative)
+
+**More available on LinkedIn and GitHub profiles**  
+
+💼 LinkedIn: https://www.linkedin.com/in/furkancancelik7  
+🐙 GitHub: https://github.com/furkancan7/certificates  
+
+---
 
 ## 📫 Bana Ulaşın | Connect With Me
 
